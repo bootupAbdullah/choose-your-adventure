@@ -45,3 +45,6 @@ if (redirect1.toLowerCase() === "y") {
     console.log("Try again and check your spelling, I am still new at this.");
   }
 }
+
+
+// ! Please see README.md
